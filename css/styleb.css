@@ -1,0 +1,87 @@
+
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+overflow: hidden
+
+}
+
+h1{ font-family: Arial;
+    font-size: 25px;
+	color: #001585;
+	
+}
+
+h2{ font-family: Arial;
+    font-size: 25px;
+	color: #001585;
+	
+
+}
+
+body{
+	height= 100%
+	background-color:black;
+	background-image: url("../images/tileB.gif");
+	background-position: center;
+	background-attachment: fixed;
+
+}
+footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	
+
+}
+p{ font-family: Arial;
+font-weight: light;
+    font-size: 11px;
+	color: black;
+	background-color: rgb(255,255,255) ;
+}
+
+
+.center {
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 100px;
+}
+.navigation {
+  display: flex;
+  width:100%;
+  font-size: 18px;
+  justify-content: space-around;
+  border: 2px solid;
+  border-color: #001585;
+  background-color: rgba(255,255,255,1);
+  padding: 10px;
+
+}
+.bodyflex {
+  display: flex;
+  flex-wrap:wrap;
+  align-items:center;
+  width:100%;
+  font-size: 18px;
+  justify-content: center;
+  border: 2px solid;
+  border-color: white;
+  background-color: #D8DEFF;
+  padding: 50px;
+  gap:50px;
+}
+.update
+{
+  border: 2px solid;
+  border-color: white;
+  background-color: #D8DEFF;
+  padding: 20px;
+
+}
+}
