@@ -104,15 +104,15 @@ font-weight: light;
   padding: 20px;
  
 }
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 800px) {
   h4 {
     font-size: 32px; 
   }
-  @media screen and (max-width: 750px) {
+  @media screen and (max-width: 800px) {
   .navigation {
     padding: 14px; 
   }
-    @media screen and (max-width: 750px) {
+    @media screen and (max-width: 800px) {
   h5 {
     font-size: 40px;
   }
