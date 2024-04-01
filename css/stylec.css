@@ -161,7 +161,7 @@ p{ font-family: Courier New;
 }
   @media screen and (max-width: 1350px) {
   .bannerlogo {
-    background-color:rgba(0,0,0,0.7);
+    background-color:rgba(0,0,0,1);
   }
 @media screen and (max-width: 1350px) {
   h4 {
