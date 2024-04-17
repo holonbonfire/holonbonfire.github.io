@@ -171,7 +171,7 @@ figure{ font-size:13px;}
 }
     @media screen and (max-width: 1350px) {
   figure {
-    font-size: 10px;
+    font-size: 10px; }
 .updatetop
 {
   background-color: rgba(0,0,65,1);
