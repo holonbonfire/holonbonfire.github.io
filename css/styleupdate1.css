@@ -16,6 +16,17 @@ header{
   font-family: Courier New ;
  
 }
+   a:active {
+	
+    background: #A9F7FF;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
 
 h1{ font-family:Courier New ;
     font-size: 16px;
