@@ -16,10 +16,7 @@ header{
   font-family: Courier New ;
  
 }
-   a:active {
-	
-    background: #A9F7FF;
-}
+
 a:link {
   text-decoration: none;
 }
